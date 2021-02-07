@@ -3,6 +3,9 @@
     padding-bottom: 50%;
     padding-top: 25px;
     height: 0px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .video-wrapper iframe {
@@ -12,7 +15,10 @@
     top: 0px;
     bottom: 0px;
     height: 100%;
-    width: 100%
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 /* .habede {
@@ -27,3 +33,9 @@
     font-weight: bold;
     text-align:center;
   } */
+
+.habede {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
